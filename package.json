@@ -1,0 +1,38 @@
+{
+    "name": "MemphisInMay",
+    "description": "Memphis In May Microsite",
+    "version": "0.0.1",
+    "homepage": "",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "devDependencies": {
+        "load-grunt-tasks": "~3.1.0",
+        "grunt": "~0.4.5",
+        "grunt-contrib-watch": "~0.6.1",
+        "grunt-contrib-clean": "~0.6.0",
+        "grunt-contrib-copy": "~0.8.0",
+        "grunt-contrib-cssmin": "~0.12.2",
+        "grunt-contrib-uglify": "~0.8.0",
+        "grunt-contrib-concat": "~0.5.1",
+        "grunt-contrib-jshint": "~0.11.0",
+        "grunt-contrib-connect": "~0.9.0",
+        "grunt-wiredep": "~2.0.0",
+        "autoprefixer-stylus": "0.5.0",
+        "rupture": "0.6.1",
+        "jeet": "~6.1.2",
+        "grunt-contrib-stylus": "~0.20.0",
+        "grunt-usemin": "~3.0.0",
+        "handlebars": "~3.0.3",
+        "modernizr": "~3.0.0-alpha",
+        "gsap":"~1.13.1"
+    },
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
