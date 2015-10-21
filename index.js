@@ -11,6 +11,7 @@ app.use(express.static(__dirname + '/dist'));
 
 app.use('/', express.static(__dirname + '/dist'))
 console.log('getting static files')
+console.log('checking the flux capacitor')
 
 app.listen(app.get('port'), function() {
   console.log("Node app is running at localhost:" + app.get('port'));
