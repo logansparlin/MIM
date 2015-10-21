@@ -7,6 +7,9 @@
         "name": "",
         "email": ""
     },
+    "scripts": {
+        "start": "node index.js"
+    },
     "repository": {
         "type": "git",
         "url": ""
@@ -34,5 +37,5 @@
     },
   "dependencies": {
     "express": "^4.11.2"
-  }
+}
 }
